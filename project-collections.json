@@ -1,0 +1,157 @@
+[
+  {
+    "id": "jac",
+    "category": "automotive",
+    "title": "JAC MOTORS",
+    "subtitle": "Performance-led vehicle campaigns",
+    "client": "JAC Motors / promotional designs",
+    "desc": "A collection of promotional vehicle graphics featuring the JAC T9 Hunter, T9 Frison, pricing-led layouts, seasonal landscapes and adventure-focused compositions.",
+    "files": [
+      "C17.jpeg",
+      "C1.jpeg",
+      "C7.jpeg",
+      "C9.jpeg",
+      "C14.jpeg",
+      "C15.jpeg",
+      "C19.jpeg",
+      "C21.jpeg",
+      "C22.jpeg",
+      "C3.jpeg"
+    ],
+    "cover": "C17.jpeg",
+    "support": "C1.jpeg",
+    "color": "#487eb7"
+  },
+  {
+    "id": "changan",
+    "category": "automotive",
+    "title": "CHANGAN",
+    "subtitle": "Lifestyle-driven automotive advertising",
+    "client": "Changan Rawal Motors / social graphics",
+    "desc": "Social campaign designs featuring Changan SUVs, pickups, sedans and vans, combining car imagery, lifestyle settings and promotional layouts.",
+    "files": [
+      "C11.jpeg",
+      "C13.jpeg",
+      "C16.jpeg",
+      "C18.jpeg",
+      "C24.jpeg",
+      "C25.jpeg",
+      "C28.jpeg",
+      "C29.jpeg",
+      "C31.jpeg",
+      "C10.jpeg"
+    ],
+    "cover": "C11.jpeg",
+    "support": "C25.jpeg",
+    "color": "#305c86"
+  },
+  {
+    "id": "deepal",
+    "category": "automotive",
+    "title": "DEEPAL",
+    "subtitle": "Electric mobility in full color",
+    "client": "Deepal Rawal Motors / digital campaigns",
+    "desc": "A series of Deepal S05 and E07 promotions built around futuristic architecture, expressive lighting, electric vehicle imagery and modern typography.",
+    "files": [
+      "C20.jpeg",
+      "C5.jpeg",
+      "C6.jpeg",
+      "C8.jpeg",
+      "C12.jpeg",
+      "C23.jpeg",
+      "C27.jpeg"
+    ],
+    "cover": "C20.jpeg",
+    "support": "C5.jpeg",
+    "color": "#366fb2"
+  },
+  {
+    "id": "forland",
+    "category": "automotive",
+    "title": "FORLAND",
+    "subtitle": "Commercial mobility graphics",
+    "client": "Forland / vehicle advertisements",
+    "desc": "Commercial vehicle promotions showing the Forland Safari, C10 Fortis and light commercial trucks across outdoor and business-use settings.",
+    "files": [
+      "C30.jpeg",
+      "C2.jpeg",
+      "C4.jpeg",
+      "C26.jpeg"
+    ],
+    "cover": "C30.jpeg",
+    "support": "C4.jpeg",
+    "color": "#527b91"
+  },
+  {
+    "id": "fingtap-networks",
+    "category": "technology",
+    "title": "NETWORK VISUALS",
+    "subtitle": "Technical products, made visual",
+    "client": "Fingtap Solution / technology communications",
+    "desc": "Informative graphics introducing Ekahau network-analysis equipment and showing regional support coverage, with a focus on legible product information.",
+    "files": [
+      "F3.jpeg",
+      "F4.jpeg",
+      "F5.jpeg",
+      "F6.jpeg"
+    ],
+    "cover": "F3.jpeg",
+    "support": "F4.jpeg",
+    "color": "#177f8a"
+  },
+  {
+    "id": "fingtap-services",
+    "category": "technology",
+    "title": "FINGTAP DIGITAL",
+    "subtitle": "IT services & social content",
+    "client": "Fingtap Solution / corporate social media",
+    "desc": "Branded social designs communicating software development, social media services, OEM support, Cisco support and 24/7 maintenance capabilities.",
+    "files": [
+      "W5.jpeg",
+      "W4.jpeg",
+      "W3.jpeg",
+      "WhatsApp Image 2026-11-04 at 2.02.00 PM (1).jpeg",
+      "WhatsApp Image 2026-11-04 at 2.02.00 PM (2).jpeg",
+      "WhatsApp Image 2026-11-04 at 2.02.00 PM (3).jpeg",
+      "WhatsApp Image 2026-11-04 at 2.02.00 PM (4).jpeg",
+      "WhatsApp Image 2026-11-04 at 2.02.00 PM (5).jpeg"
+    ],
+    "cover": "W5.jpeg",
+    "support": "WhatsApp Image 2026-11-04 at 2.02.00 PM (5).jpeg",
+    "color": "#237764"
+  },
+  {
+    "id": "travel",
+    "category": "travel",
+    "title": "THA EUROPE",
+    "subtitle": "Visa & travel marketing",
+    "client": "THA Europe / travel promotions",
+    "desc": "Visa-focused graphics covering Europe, Estonia, Denmark, Saudi Arabia and Türkiye, spanning travel, work opportunities and professional applications.",
+    "files": [
+      "F1.jpeg",
+      "F2.jpeg",
+      "F7.jpeg",
+      "F8.jpeg",
+      "F9.jpeg",
+      "F10.jpeg",
+      "WhatsApp Image 2026-11-04 at 2.02.00 PM.jpeg"
+    ],
+    "cover": "F7.jpeg",
+    "support": "F1.jpeg",
+    "color": "#398aad"
+  },
+  {
+    "id": "recruitment",
+    "category": "recruitment",
+    "title": "THA RECRUITMENT",
+    "subtitle": "Hiring communication design",
+    "client": "THA Europe / recruitment creatives",
+    "desc": "Recruitment post artwork presenting open positions and contact information with bold type and business-focused graphic composition.",
+    "files": [
+      "W1.jpeg"
+    ],
+    "cover": "W1.jpeg",
+    "support": null,
+    "color": "#bb7a26"
+  }
+]
